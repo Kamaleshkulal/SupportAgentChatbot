@@ -6,7 +6,7 @@
 
 ```sh
 git clone https://github.com/Kamaleshkulal/SupportAgentChatbot.git
-cd cdp_chatbots
+cd SupportAgentChatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
