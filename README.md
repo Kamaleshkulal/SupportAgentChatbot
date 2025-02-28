@@ -69,4 +69,4 @@ npm run dev
 ```
 
 
-### 11. Got GEMINI API AND GENEREATE API KEY AND USE IT 
+### 11. Got the GEMINI API and generated the API key. Use it.
