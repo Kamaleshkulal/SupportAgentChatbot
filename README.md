@@ -67,3 +67,6 @@ npm run dev
 ```sh
    http://localhost:3000
 ```
+
+
+### 11. Got GEMINI API AND GENEREATE API KEY AND USE IT 
